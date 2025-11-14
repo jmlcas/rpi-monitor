@@ -1,6 +1,3 @@
-# rpi-monitor
-Rpi-Monitor - Monitorizar Raspberry - Docker compose
+# Rpi-monitor
 
-Ver en "localhost:8888"
-
-
+Ver en "http://localhost:8888"
