@@ -1,9 +1,7 @@
-version: '3.3'
-
 services:
 
   rpi-monitor:
-    image: ikaritw/rpi-monitor:2.13
+    image: ikaritw/rpi-monitor:latest
     container_name: rpi-monitor
     ports:
       - "8888:8888"
